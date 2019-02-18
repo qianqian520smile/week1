@@ -1,0 +1,1 @@
+function hanshu(n,h){return n+h}hanshu();
